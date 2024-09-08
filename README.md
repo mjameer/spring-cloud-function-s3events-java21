@@ -19,6 +19,7 @@
 - [AWS Lambda Spring Cloud Functions](https://www.danvega.dev/blog/aws-lambda-snapstart-spring)
 - [What is AWS Lambda Snapshot](https://docs.aws.amazon.com/lambda/latest/dg/snapstart.html)
 - [Spring Cloud Functions Tutorial for enhancing function implementation and testing](https://www.youtube.com/watch?v=dotPoJXXdQc)
+- [Function as endpoints](https://www.youtube.com/watch?v=2SjVqTapQAs)
 
 ## Getting Started
 
