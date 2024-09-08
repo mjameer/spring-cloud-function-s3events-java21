@@ -1,10 +1,10 @@
 ### Spring Cloud Function for AWS Lambda Triggers on S3 Upload
 
-S3 Upload Triggers AWS Lambda using Spring Cloud function Java 21 and AWS SDK 2.x.
+- S3 Upload Triggers AWS Lambda using Spring Cloud function Java 21 and AWS SDK 2.x.
 
-### How Spring cloud function is different from Spring Boot?
+### How Spring Cloud function is different from Spring Boot?
 
-Spring cloud function is used to span the JVM as quickly as possible, and removes unnecessary bootstrapping steps during initialization
+- Spring cloud function is used to span the JVM as quickly as possible, and removes unnecessary bootstrapping steps during initialization
 
 ### How to run in AWS Lambda
 
