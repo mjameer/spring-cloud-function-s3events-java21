@@ -49,6 +49,8 @@ Follow the below instructions to get started with the source code:
 
 
 ```xml
+
+<!- to expose the functions as web endpoint-->
 <dependency>
     <groupId>org.springframework.cloud</groupId>
     <artifactId>spring-cloud-function-web</artifactId>
