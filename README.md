@@ -132,4 +132,7 @@ Reference ->> https://www.youtube.com/watch?v=YkkFLcpUKNI
 
 
 
+### Lambda In general 
+
+![image](https://github.com/user-attachments/assets/65926f0e-82fd-48ba-ae24-62671bbc5f0b)
 
