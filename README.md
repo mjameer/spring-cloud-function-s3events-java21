@@ -25,6 +25,8 @@
 - [What is AWS Lambda Snapshot](https://docs.aws.amazon.com/lambda/latest/dg/snapstart.html)
 - [Spring Cloud Functions Tutorial for enhancing function implementation and testing](https://www.youtube.com/watch?v=dotPoJXXdQc)
 - [Function as endpoints](https://www.youtube.com/watch?v=2SjVqTapQAs)
+- [Optimize your Java application on AWS Lambda](https://www.youtube.com/watch?v=sVJOJUD0fhQ)
+
 
 ## Getting Started
 
@@ -122,17 +124,18 @@ Follow the below instructions to get started with the source code:
 ```
 
 
-Add on
+### Spring cloud stream - Add on
 
 ![image](https://github.com/user-attachments/assets/911cb94a-7fb3-49af-9494-f360e8e6eb18)
 
-
-
 Reference ->> https://www.youtube.com/watch?v=YkkFLcpUKNI
 
-
-
-### Lambda In general 
+### Lambda Life cycle 
 
 ![image](https://github.com/user-attachments/assets/65926f0e-82fd-48ba-ae24-62671bbc5f0b)
+
+### Optimize your Java application on AWS Lambda
+
+![image](https://github.com/user-attachments/assets/996f0848-70ee-4254-b189-d5773501a281)
+
 
