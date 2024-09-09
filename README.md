@@ -28,6 +28,11 @@
 - [Optimize your Java application on AWS Lambda](https://www.youtube.com/watch?v=sVJOJUD0fhQ)
 
 
+### Azure Reference 
+
+- [Spring Cloud Function for Azure Function](https://spring.io/blog/2023/02/24/spring-cloud-function-for-azure-function)
+- [Microsoft Azure Functions](https://docs.spring.io/spring-cloud-function/docs/current/reference/html/azure.html)
+
 ## Getting Started
 
 Follow the below instructions to get started with the source code:
