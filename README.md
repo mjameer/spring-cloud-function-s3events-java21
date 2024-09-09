@@ -139,3 +139,8 @@ Reference ->> https://www.youtube.com/watch?v=YkkFLcpUKNI
 ![image](https://github.com/user-attachments/assets/996f0848-70ee-4254-b189-d5773501a281)
 
 
+### for Java 8 
+
+- https://github.com/somanapalli/awslambda/tree/master
+- https://www.youtube.com/watch?v=EDfg60aTXvM
+
