@@ -146,7 +146,7 @@ Reference ->> https://www.youtube.com/watch?v=YkkFLcpUKNI
 
 ### for Java 8 
 
-- https://github.com/somanapalli/awslambda/tree/master
+- https://github.com/mjameer/spring-cloud-function-lambda.git
 - https://www.youtube.com/watch?v=EDfg60aTXvM
 
 ### Lambda Snapstart 
