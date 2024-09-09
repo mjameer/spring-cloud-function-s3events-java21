@@ -19,6 +19,7 @@
 
 ## Reference on Spring Cloud functions
 
+- [Spring Cloud Function official Doc](https://docs.spring.io/spring-cloud-function/reference/adapters/aws-intro.html)
 - [Spring cloud function on Java 17](https://youtu.be/bxK4GscuVgs)
 - [AWS Lambda Spring Cloud Functions](https://www.danvega.dev/blog/aws-lambda-snapstart-spring)
 - [What is AWS Lambda Snapshot](https://docs.aws.amazon.com/lambda/latest/dg/snapstart.html)
